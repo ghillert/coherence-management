@@ -1,0 +1,3 @@
+coherence:
+  logging:
+    destination:  slf4j

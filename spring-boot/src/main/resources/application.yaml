@@ -1,0 +1,6 @@
+coherence:
+  management:
+    http: all
+  logging:
+    severity-level: 6
+    destination: stdout
